@@ -11,7 +11,7 @@ Jeg føler oppgaven gikk veldig fint og at jeg fikk den tiden jeg trengte mellom
 Med mer tid ville jeg også laget resten av innholdet på siden og programmert egen logikk for underlines under linkene på headeren, samt eget animert hamburgerikon.
 Jeg ville da også gått grundigere til verks for å opptimalisere for søkemotor.
 
-Ekperimenterte også med VUE.js, og med mer tid til overs ville jeg laget oppgaven i dette.
+Ekperimenterte også med VUE.js, og med mer tid til overs ville jeg laget oppgaven i dette. Valgte å gå bort ifra det for å levere best mulig oppgave med verktøy jeg allerede er  godt kjent med.
 
 
 ### Universell Utforming
