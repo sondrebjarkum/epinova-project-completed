@@ -1,7 +1,7 @@
 # Oppgave for Epinova - Sondre Bjarkum
-
-Mål:
 ```
+Mål:
+
 Ved hjelp av HTML og CSS, lag ein responsiv header beståande av 
    • Logo
    • Meny 
