@@ -1,8 +1,14 @@
 # Oppgave for Epinova - Sondre Bjarkum
 
-### Notater
+Mål:
+```
+Ved hjelp av HTML og CSS, lag ein responsiv header beståande av 
+   • Logo
+   • Meny 
+ ```
+## Notater
 
-Accessibility
+### Accessibility
 ```
     * Bilder har en beskrivende "alt" tag
     * Alle linker og knapper har en "title" som beskriver funksjonen
