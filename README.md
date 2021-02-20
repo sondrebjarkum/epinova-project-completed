@@ -16,3 +16,9 @@ Ved hjelp av HTML og CSS, lag ein responsiv header beståande av
     * Browser support langs Safari, Chromeium, Firefox, Edge og Opera
         - kjørte css-en gjennom https://autoprefixer.github.io/ for prefixes
 ```
+### Løftet kode
+Kode som er blitt løftet er også blitt modifisert for å fungere optimalt med levert løsning.
+```
+    * For å få linkene i headeren til å endre underline for hver seksjon: https://stackoverflow.com/questions/42799048/fade-a-pseudo-element-on-scroll-js-or-jquery 
+    * Hamburger ikonet hentet fra: https://jonsuh.com/hamburgers
+```
