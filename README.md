@@ -1,8 +1,6 @@
 # Oppgave for Epinova - Sondre Bjarkum
-## Wort Lord Brewing - et hjemmebryggeri
 
-#Notater
-##Accessibility
+# Notater
     * Bilder har en beskrivende "alt" tag
     * Alle linker og knapper har en "title" som beskriver funksjonen
     * Headeren er mulig å navigere med tastatur, lagt inn tabindex for logo
