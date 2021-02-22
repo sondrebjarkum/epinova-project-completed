@@ -57,10 +57,12 @@ function scrollFunction() {
     //shrink header, else it's mobile view and no shrinkage needed
     if(window.innerWidth >= 770){
         if (document.body.scrollTop > 90 || document.documentElement.scrollTop > 90){
-            document.getElementById("header").classList.add('shrink-header')
+            document.getElementById("header").classList.add('shrink-header');
+            document.getElementById("logo").classList.add('shrink-logo');
         }  
         else { 
-            document.getElementById("header").classList.remove('shrink-header')
+            document.getElementById("header").classList.remove('shrink-header');
+            document.getElementById("logo").classList.remove('shrink-logo');
         }
     }
 } 
